@@ -1,0 +1,7 @@
+{
+	"name": "Fry Engine Template Mod",
+	"description": "Template Mod By Fry Engine. Use This for mods.",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}
