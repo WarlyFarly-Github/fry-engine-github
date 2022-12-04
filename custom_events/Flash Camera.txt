@@ -1,0 +1,6 @@
+This Event Flashes The Camera.
+
+Value 1: speed
+
+And for Any users who don't like flashing lights, 
+this event is not recommended.
