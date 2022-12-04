@@ -1,0 +1,7 @@
+This is Fry Engine's Cinematic Bars Event.
+
+Value 1: To start mark this Value with 1
+
+Value 2: To end mark this Value with 2
+
+
