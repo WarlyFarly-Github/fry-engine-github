@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EduardoIdle"
+		},
+		{
+			"offsets": [
+				2,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EduardoLeft"
+		},
+		{
+			"offsets": [
+				10,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EduardoDown"
+		},
+		{
+			"offsets": [
+				-17,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EduardoUp"
+		},
+		{
+			"offsets": [
+				-2,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EduardoRight"
+		},
+		{
+			"offsets": [
+				-3,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "EduardoWell"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "EduardoIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "FunkinLUAOptions/characters/EDUARDOOO",
+	"position": [
+		40,
+		20
+	],
+	"healthicon": "eduardo",
+	"flip_x": false,
+	"healthbar_colors": [
+		17,
+		113,
+		43
+	],
+	"camera_position": [
+		70,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
