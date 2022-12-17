@@ -1,6 +1,6 @@
 ## Welcome to Fry Engine!
 
-The engine that's a psych engine repo
+The engine that's a psych engine copy lol
 
 ## Status:
 
