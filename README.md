@@ -5,5 +5,5 @@ Busy! This means that i'm currently working on the engine
 ## Helpers:
 @LilDrippyMyFnf (Admin, Joined 17th December 2022.)
 
-@WarlyFarly-Github (Owner, Joined Since it was created.)
+@WarlyFarly-Github (Owner, Joined 3rd December 2022.)
 
