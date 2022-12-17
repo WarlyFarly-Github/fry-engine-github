@@ -1,0 +1,4 @@
+[THIS ONLY WORKS FOR MODDED STAGES]
+
+Value 1: Modded Stage you want to use
+Value 2: Modded Stage you want to remove (this won't delete the file)
