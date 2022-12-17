@@ -8,9 +8,7 @@ Currently Busy
 
 ## Creators
 
-* Warly Farly Github! - Developer
-* MyFnf - Admin,Dev
+* WarlyFarly-Github! - Developer (Joined 3rd December 2022)
+* MyFnf - Admin, Dev (Joined 17th December 2022)
 
-## Features
 
-Cool shit i can't talk about,MY BACK HURTS.
