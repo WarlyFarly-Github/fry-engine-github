@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		120,
+		60
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "BF CONFUSED0",
+			"loop_name": "BF CONFUSED LOOP"
+		},
+		{
+			"loop_name": "BF EXCITED LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BF SHOCK LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF SHOCK0",
+			"anim": "dissapointed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Dad_Dialogue"
+}

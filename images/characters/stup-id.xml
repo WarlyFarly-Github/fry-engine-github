@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stup-id.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceleft0000" x="0" y="0" width="702" height="576"/>
+	<SubTexture name="danceleft0001" x="0" y="0" width="702" height="576"/>
+	<SubTexture name="danceleft0002" x="702" y="0" width="702" height="576"/>
+	<SubTexture name="danceleft0003" x="702" y="0" width="702" height="576"/>
+	<SubTexture name="danceleft0004" x="1404" y="0" width="702" height="576"/>
+	<SubTexture name="danceleft0005" x="1404" y="0" width="702" height="576"/>
+	<SubTexture name="danceleft0006" x="2106" y="0" width="702" height="576"/>
+	<SubTexture name="danceleft0007" x="2808" y="0" width="702" height="576"/>
+	<SubTexture name="danceright0000" x="0" y="576" width="702" height="571"/>
+	<SubTexture name="danceright0001" x="702" y="576" width="702" height="571"/>
+	<SubTexture name="danceright0002" x="1404" y="576" width="702" height="571"/>
+	<SubTexture name="danceright0003" x="2106" y="576" width="702" height="571"/>
+	<SubTexture name="danceright0004" x="2808" y="576" width="702" height="571"/>
+	<SubTexture name="danceright0005" x="0" y="1147" width="702" height="571"/>
+	<SubTexture name="danceright0006" x="702" y="1147" width="702" height="571"/>
+	<SubTexture name="danceright0007" x="0" y="1147" width="702" height="571"/>
+	<SubTexture name="hey0000" x="1404" y="1147" width="702" height="576"/>
+	<SubTexture name="hey0001" x="2106" y="1147" width="702" height="576"/>
+	<SubTexture name="hey0002" x="2808" y="1147" width="702" height="576"/>
+	<SubTexture name="hey0003" x="2808" y="1147" width="702" height="576"/>
+	<SubTexture name="hey0004" x="0" y="1723" width="702" height="576"/>
+	<SubTexture name="hey0005" x="0" y="1723" width="702" height="576"/>
+	<SubTexture name="hey0006" x="702" y="1723" width="702" height="576"/>
+	<SubTexture name="hey0007" x="702" y="1723" width="702" height="576"/>
+	<SubTexture name="hey0008" x="1404" y="1723" width="702" height="576"/>
+</TextureAtlas>
