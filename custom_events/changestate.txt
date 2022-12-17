@@ -1,5 +1,0 @@
-v1= if you wanna change or go back to default
-(1= change, anything else = default)
-v2= state
-must be either:
-fear/sad/neutral/happy/laugh
