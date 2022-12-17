@@ -1,9 +1,16 @@
-# Fry Engine!
-Welcome To the Fry Engine Github Repository! Here we have some cool files, a wiki, and much more! So go ahead and get looking, hm? The latest version is 0.3.3.
+## Welcome to Fry Engine!
+
+The engine that's a psych engine repo
+
 ## Status:
-Busy! This means that i'm currently working on the engine
-## Helpers:
-@LilDrippyMyFnf (Admin, Joined 17th December 2022.)
 
-@WarlyFarly-Github (Owner, Joined 3rd December 2022.)
+Currently Busy
 
+## Creators
+
+* Warly Farly Github! - Developer
+* MyFnf - Admin,Dev
+
+## Features
+
+Cool shit i can't talk about,MY BACK HURTS.
