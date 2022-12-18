@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gf idle"
+		},
+		{
+			"offsets": [
+				0,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gf down0"
+		},
+		{
+			"offsets": [
+				0,
+				-156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gf up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-178
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "gf down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-156
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "gf up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-164
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "gf dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				315,
+				-149
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "gf dies",
+			"indices": []
+		},
+		{
+			"offsets": [
+				308,
+				-160
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "gf death loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				308,
+				-160
+			],
+			"anim": "deathConfirm",
+			"fps": 26,
+			"name": "gf death confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-149
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "hey",
+			"indices": [],
+			"name": "gf hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-160
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gf right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-153
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gf left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-159
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "gf right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-154
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "gf left miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-155
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "gf spooked"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf_playable",
+	"position": [
+		60,
+		50
+	],
+	"healthicon": "gf-playable",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		210,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
