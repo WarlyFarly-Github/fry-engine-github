@@ -15,5 +15,6 @@ Currently Busy
 
 ## Requirements
 
-* MacOS ( since its a macOS engine )
+* MacOS or Windows
 * [VS Code](https://code.visualstudio.com/Download)
+if you don't have vs code, you can always use TextEdit (MacOS) or Notepad (Windows)
