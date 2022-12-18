@@ -2,7 +2,7 @@
 
 The engine that's a psych engine copy lol
 
-We are in desperate need of helpers for this. if you would like to help, make an issue!
+We are in desperate need of helpers for this. if you would like to help, make an issue and add the tag "coder - fry engine!" or "artist - fry engine!"
 
 ## Status:
 
