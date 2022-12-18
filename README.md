@@ -19,3 +19,5 @@ Currently Busy
 * [VS Code](https://code.visualstudio.com/Download)
 
 if you don't have vs code, you can always use TextEdit/TextWrangler (MacOS) or Notepad (Windows)
+
+PLEASE IGNORE 0.4.7 STUFF I MEANT 0.4.9
