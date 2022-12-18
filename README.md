@@ -13,3 +13,7 @@ Currently Busy
 * MyFnf - Admin, Dev (Joined 17th December 2022)
 * WarlyFarly-Github! - Developer (Joined 3rd December 2022)
 
+## Requirements
+
+* MacOS ( since its a macOS engine )
+* [VS Code](https://code.visualstudio.com/Download)
