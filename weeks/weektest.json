@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Test",
+			"face",
+			[
+				146,
+				146,
+				146
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"storyName": "Boyfriend",
+	"weekName": "Test Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week7",
+	"startUnlocked": true
+}

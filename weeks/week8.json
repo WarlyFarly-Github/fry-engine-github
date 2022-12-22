@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Darnell",
+			"darnell",
+			[
+				186,
+				153,
+				255
+			]
+		],
+		[
+			"Score",
+			"darnell",
+			[
+				186,
+				153,
+				255
+			]
+		],
+		[
+			"2Hot",
+			"darnell",
+			[
+				186,
+				153,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"darnell",
+		"pico-player",
+		"nene"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
