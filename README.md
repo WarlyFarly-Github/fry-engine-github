@@ -22,4 +22,4 @@ if you don't have vs code, you can always use TextEdit/TextWrangler (MacOS) or N
 
 PLEASE IGNORE 0.4.7 STUFF I MEANT 0.4.9
 
-ALSO IGNORE 0.2.5 STUFF I MEANT 0.5.2
+ALSO IGNORE 0.2.5 STUFF I MEANT 0.5.4
