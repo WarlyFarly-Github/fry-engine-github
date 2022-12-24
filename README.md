@@ -10,6 +10,7 @@ Currently Busy
 
 ## Creators
 
+* CreativeQuail1475 - Artist (Joined 24th December 2022)
 * ArtableBOX - Programmer, Co-Dev (Joined 24th December 2022)
 * WarlyFarly-Github! - Developer (Joined 3rd December 2022)
 ### Ex-Creators
