@@ -25,4 +25,4 @@ PLEASE IGNORE 0.4.7 STUFF I MEANT 0.4.9
 
 ALSO IGNORE 0.2.5 STUFF I MEANT 0.5.4
 
-I can't type correct sd :skull:
+I can't type correct XD :skull:
