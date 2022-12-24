@@ -13,7 +13,7 @@ Currently Busy
 * ArtableBOX - Programmer, Co-Dev (Joined 24th December 2022)
 * WarlyFarly-Github! - Developer (Joined 3rd December 2022)
 ### Ex-Creators
-* MyFnf - Ex-Dev (Joined 17th December 2022)
+* MyFnf - Ex-Dev (17th December - 24th December 2022 :skull:)
 ## Requirements
 
 * MacOS or Windows
