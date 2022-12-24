@@ -10,9 +10,9 @@ Currently Busy
 
 ## Creators
 
+* ArtableBOX - Programmer (Joined 24th December 2022)
 * MyFnf - Admin, Dev (Joined 17th December 2022)
 * WarlyFarly-Github! - Developer (Joined 3rd December 2022)
-
 ## Requirements
 
 * MacOS or Windows
