@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "city_2",
+		"player1": "pico-player",
+		"player2": "darnell",
+		"player3": null,
+		"events": [
+			[
+				9000,
+				[
+					[
+						"Play Animation",
+						"letsgo",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "nene_gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Score"
+	}
+}

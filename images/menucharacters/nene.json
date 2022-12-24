@@ -1,0 +1,11 @@
+{
+	"idle_anim": "beepboop",
+	"image": "Menu_Nene",
+	"position": [
+		130,
+		93
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}

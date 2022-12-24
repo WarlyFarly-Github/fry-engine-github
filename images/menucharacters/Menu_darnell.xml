@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darnell menu.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="darnell menu instance 10000" x="25" y="25" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10001" x="25" y="25" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10002" x="524" y="25" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10003" x="524" y="25" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10004" x="1023" y="25" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10005" x="1023" y="25" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10006" x="1522" y="25" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10007" x="1522" y="25" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10008" x="25" y="518" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10009" x="25" y="518" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10010" x="524" y="518" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10011" x="524" y="518" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10012" x="524" y="518" width="494" height="488"/>
+	<SubTexture name="darnell menu instance 10013" x="524" y="518" width="494" height="488"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stup-id.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfDance0000" x="0" y="0" width="702" height="576"/>
+	<SubTexture name="gfDance0001" x="0" y="0" width="702" height="576"/>
+	<SubTexture name="gfDance0002" x="702" y="0" width="702" height="576"/>
+	<SubTexture name="gfDance0003" x="702" y="0" width="702" height="576"/>
+	<SubTexture name="gfDance0004" x="1404" y="0" width="702" height="576"/>
+	<SubTexture name="gfDance0005" x="1404" y="0" width="702" height="576"/>
+	<SubTexture name="gfDance0006" x="2106" y="0" width="702" height="576"/>
+	<SubTexture name="gfDance0007" x="2808" y="0" width="702" height="576"/>
+	<SubTexture name="gfDance0008" x="0" y="576" width="702" height="571"/>
+	<SubTexture name="gfDance0009" x="702" y="576" width="702" height="571"/>
+	<SubTexture name="gfDance0010" x="1404" y="576" width="702" height="571"/>
+	<SubTexture name="gfDance0011" x="2106" y="576" width="702" height="571"/>
+	<SubTexture name="gfDance0012" x="2808" y="576" width="702" height="571"/>
+	<SubTexture name="gfDance0013" x="0" y="1147" width="702" height="571"/>
+	<SubTexture name="gfDance0014" x="702" y="1147" width="702" height="571"/>
+	<SubTexture name="gfDance0015" x="0" y="1147" width="702" height="571"/>
+</TextureAtlas>

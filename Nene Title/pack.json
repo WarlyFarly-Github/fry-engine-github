@@ -1,0 +1,7 @@
+{
+	"name": "Nene Title",
+	"description": "Nene But on the title screen.",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}
