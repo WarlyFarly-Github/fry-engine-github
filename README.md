@@ -10,9 +10,10 @@ Currently Busy
 
 ## Creators
 
-* ArtableBOX - Programmer (Joined 24th December 2022)
-* MyFnf - Admin, Dev (Joined 17th December 2022)
+* ArtableBOX - Programmer, Co-Dev (Joined 24th December 2022)
 * WarlyFarly-Github! - Developer (Joined 3rd December 2022)
+### Ex-Creators
+* MyFnf - Ex-Dev (Joined 17th December 2022)
 ## Requirements
 
 * MacOS or Windows
@@ -23,3 +24,5 @@ if you don't have vs code, you can always use TextEdit/TextWrangler (MacOS) or N
 PLEASE IGNORE 0.4.7 STUFF I MEANT 0.4.9
 
 ALSO IGNORE 0.2.5 STUFF I MEANT 0.5.4
+
+I can't type correct sd :skull:
